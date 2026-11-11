@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#ff603e"/>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#211821" stroke-width="2"/>
+  <path d="M52 111h696M52 676h696" stroke="#211821" stroke-width="2"/>
+  <text x="54" y="81" fill="#211821" font-family="monospace" font-weight="700" font-size="22">DESIGN STUDY / 04</text>
+  <rect x="221" y="210" width="358" height="358" rx="179" fill="#ffd1a3" opacity=".36"/>
+  <g transform="translate(400 391)" fill="#211821"><path d="M-156 139-59-140H33l94 279H49L25 67h-80l-24 72Z"/><path d="m-39 11 24-76 26 76Z" fill="#ffd1a3"/><circle cx="122" cy="-109" r="28"/><rect x="100" y="-62" width="44" height="109"/></g>
+  <g fill="#211821">
+    <text x="54" y="718" font-family="Arial, PingFang SC, sans-serif" font-size="35" font-weight="900">TYPE PLAY</text>
+    <text x="54" y="747" font-family="monospace" font-size="16">LETTERFORM STUDY</text>
+  </g>
+</svg>

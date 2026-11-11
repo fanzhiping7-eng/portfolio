@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#ffc2d6"/>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#24279e" stroke-width="2"/>
+  <path d="M52 111h696M52 676h696" stroke="#24279e" stroke-width="2"/>
+  <text x="54" y="81" fill="#24279e" font-family="monospace" font-weight="700" font-size="22">DESIGN STUDY / 04</text>
+  <rect x="221" y="210" width="358" height="358" rx="179" fill="#ff765d" opacity=".36"/>
+  <g transform="translate(400 391)" fill="#24279e"><path d="M0-61C-106-134-174-8-100 82Q-45 148 0 108 42 148 97 82C174-8 106-134 0-61Z" fill="#ff765d"/><path d="M0-61q7-96 103-75-24 65-103 75Zm0 0q-50 80 0 169" fill="none" stroke="#24279e" stroke-width="8" stroke-linecap="round"/></g>
+  <g fill="#24279e">
+    <text x="54" y="718" font-family="Arial, PingFang SC, sans-serif" font-size="35" font-weight="900">PEACH, PLEASE</text>
+    <text x="54" y="747" font-family="monospace" font-size="16">PACKAGING PALETTE</text>
+  </g>
+</svg>

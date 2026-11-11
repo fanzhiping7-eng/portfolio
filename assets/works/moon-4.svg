@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#f7e9cd"/>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#603b2e" stroke-width="2"/>
+  <path d="M52 111h696M52 676h696" stroke="#603b2e" stroke-width="2"/>
+  <text x="54" y="81" fill="#603b2e" font-family="monospace" font-weight="700" font-size="22">DESIGN STUDY / 04</text>
+  <rect x="221" y="210" width="358" height="358" rx="179" fill="#d4a577" opacity=".36"/>
+  <g transform="translate(400 391)" fill="#603b2e"><circle r="146"/><path d="M-107-18Q-38-11 0 42 39-11 107-18 95 76 0 110-94 77-107-18Z" fill="#f7e9cd"/><g transform="translate(0 -66) scale(.43)" fill="#d4a577"><path d="M0-108 18-19 108 0 18 19 0 108-18 19-108 0-18-19Z"/></g></g>
+  <g fill="#603b2e">
+    <text x="54" y="718" font-family="Arial, PingFang SC, sans-serif" font-size="35" font-weight="900">PAPER MOON</text>
+    <text x="54" y="747" font-family="monospace" font-size="16">BOOKPLATE STAMP</text>
+  </g>
+</svg>

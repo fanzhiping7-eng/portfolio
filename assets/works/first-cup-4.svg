@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#ffe0a1"/>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#6b2d23" stroke-width="2"/>
+  <path d="M52 111h696M52 676h696" stroke="#6b2d23" stroke-width="2"/>
+  <text x="54" y="81" fill="#6b2d23" font-family="monospace" font-weight="700" font-size="22">DESIGN STUDY / 04</text>
+  <rect x="221" y="210" width="358" height="358" rx="179" fill="#ffd078" opacity=".36"/>
+  <g transform="translate(400 391)" fill="#6b2d23"><path d="M-133-44H72v73c0 66-44 103-103 103S-133 96-133 29Z"/><path d="M62-18h34q72 2 60 60-12 45-84 39M-62-72q-43-49 8-88m52 86q-36-49 14-84" fill="none" stroke="#6b2d23" stroke-width="13" stroke-linecap="round"/><g transform="translate(-28 43) scale(.47)" fill="#ffd078"><path d="M0-108 18-19 108 0 18 19 0 108-18 19-108 0-18-19Z"/></g></g>
+  <g fill="#6b2d23">
+    <text x="54" y="718" font-family="Arial, PingFang SC, sans-serif" font-size="35" font-weight="900">FIRST CUP</text>
+    <text x="54" y="747" font-family="monospace" font-size="16">COFFEE CUP STICKER</text>
+  </g>
+</svg>

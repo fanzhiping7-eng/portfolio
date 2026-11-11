@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#d4ede3"/>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#155850" stroke-width="2"/>
+  <path d="M52 111h696M52 676h696" stroke="#155850" stroke-width="2"/>
+  <text x="54" y="81" fill="#155850" font-family="monospace" font-weight="700" font-size="22">DESIGN STUDY / 04</text>
+  <rect x="221" y="210" width="358" height="358" rx="179" fill="#a9ded7" opacity=".36"/>
+  <g transform="translate(400 391)" fill="#155850"><g fill="none" stroke="#155850" stroke-width="12" stroke-linecap="round"><path d="M-147 -59q71-57 145 0t145 0"/><path d="M-147 -2q71-57 145 0t145 0"/><path d="M-147 55q71-57 145 0t145 0"/><path d="M55-122h79l-26-27m26 27-26 27"/></g></g>
+  <g fill="#155850">
+    <text x="54" y="718" font-family="Arial, PingFang SC, sans-serif" font-size="35" font-weight="900">TIDE LINE</text>
+    <text x="54" y="747" font-family="monospace" font-size="16">COASTAL WAYFINDING</text>
+  </g>
+</svg>

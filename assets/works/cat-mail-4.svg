@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#ffcddd"/>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#8a3150" stroke-width="2"/>
+  <path d="M52 111h696M52 676h696" stroke="#8a3150" stroke-width="2"/>
+  <text x="54" y="81" fill="#8a3150" font-family="monospace" font-weight="700" font-size="22">DESIGN STUDY / 04</text>
+  <rect x="221" y="210" width="358" height="358" rx="179" fill="#ffe7c8" opacity=".36"/>
+  <g transform="translate(400 391)" fill="#8a3150"><path d="M-163-103H163v206H-163Z" fill="#ffe7c8" stroke="#8a3150" stroke-width="7"/><path d="m-159-100 159 117 159-117" fill="none" stroke="#8a3150" stroke-width="7"/><circle cy="17" r="76"/><path d="M-42 0l-2-26 28 16q16-6 32 0l28-16-2 26q17 43-42 45-59-2-42-45Z" fill="#ffcddd"/><path d="M-24 13h10m28 0h10" stroke="#8a3150" stroke-width="5" stroke-linecap="round"/></g>
+  <g fill="#8a3150">
+    <text x="54" y="718" font-family="Arial, PingFang SC, sans-serif" font-size="35" font-weight="900">CAT MAIL</text>
+    <text x="54" y="747" font-family="monospace" font-size="16">ENVELOPE SEAL</text>
+  </g>
+</svg>

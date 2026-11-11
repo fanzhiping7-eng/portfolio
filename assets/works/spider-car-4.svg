@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#eee6f4"/>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#3a216b" stroke-width="2"/>
+  <path d="M52 111h696M52 676h696" stroke="#3a216b" stroke-width="2"/>
+  <text x="54" y="81" fill="#3a216b" font-family="monospace" font-weight="700" font-size="22">DESIGN STUDY / 04</text>
+  <rect x="221" y="210" width="358" height="358" rx="179" fill="#cdb6f0" opacity=".36"/>
+  <g transform="translate(400 391)" fill="#3a216b"><rect x="-111" y="-92" width="222" height="184" rx="12" fill="none" stroke="#3a216b" stroke-width="7" stroke-dasharray="14 10"/><path d="M-77 57-25-17 5 24 36-2 78 57Z"/><circle cx="46" cy="-46" r="17"/></g>
+  <g fill="#3a216b">
+    <text x="54" y="718" font-family="Arial, PingFang SC, sans-serif" font-size="35" font-weight="900">高速蜘蛛车</text>
+    <text x="54" y="747" font-family="monospace" font-size="16">IMAGE 04 / PLACEHOLDER</text>
+  </g>
+</svg>

@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f3e8">
+  <meta name="description" content="范志平的视觉设计作品集，收录品牌、海报、包装与编辑设计。">
+  <title>范志平作品集 · Purple Notes</title>
+  <link rel="icon" href="assets/star.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="content.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">跳到主要内容</a>
+<header class="site-head">
+  <div class="wrap head-inner">
+    <a class="brand" href="#home" aria-label="作品集首页"><span aria-hidden="true">✷</span><b data-field="signature"></b><small> / DESIGN NOTES</small></a>
+    <nav aria-label="主导航"><a href="#about">关于我</a><a href="#work">作品</a><a class="head-contact" href="#contact">联系我 <span aria-hidden="true">↗</span></a></nav>
+  </div>
+</header>
+<main id="main">
+  <div id="home-view">
+    <section id="home" class="hero wrap" aria-labelledby="hero-title">
+      <p class="hero-kicker"><span></span> INDEPENDENT GRAPHIC DESIGNER</p>
+      <h1 id="hero-title" class="hero-title" aria-label="Portfolio"><span class="word left-word" aria-hidden="true"><i>P</i><i>O</i><i>R</i><i>T</i></span><span class="word right-word" aria-hidden="true"><i>F</i><i>O</i><i>L</i><i>I</i><i>O</i></span></h1>
+      <svg class="doodle orbit" viewBox="0 0 170 102" aria-hidden="true"><path d="M10 75C18 43 104 9 148 21c44 12-23 58-84 67C-7 99 24 64 61 44c24-13 61-21 83-19M150 13l9-8m-4 15 14 3"/><text x="30" y="66" transform="rotate(-17 30 66)">make things!</text></svg>
+      <svg class="doodle plane" viewBox="0 0 175 112" aria-hidden="true"><path d="M12 100c16-23 52-30 65-27 29 8-10 22-20 12-14-13 32-33 55-34" stroke-dasharray="5 6"/><path d="m112 38 52-26-21 50-10-17-21-7Zm21 7 31-33m-31 33-2 13 9-7"/><path d="m105 16-7-7m2 16-12-2"/></svg>
+      <span class="spark spark-one" aria-hidden="true">✧</span><span class="spark spark-two" aria-hidden="true">✦</span>
+      <img class="hero-person" data-image="portrait" alt="参考肖像生成的长卷发人物贴纸">
+      <div class="hero-bottom"><p><b data-field="name"></b><span> / </span><span data-field="role"></span></p><a class="see-work" href="#work">向下看作品 <span aria-hidden="true">↓</span></a></div>
+      <span class="hero-side" aria-hidden="true">FIG. 01 / SELF PORTRAIT</span>
+    </section>
+    <section class="about-paper" id="about" aria-labelledby="about-title">
+      <div class="wrap about-grid">
+        <figure class="id-card">
+          <div class="id-slot"></div>
+          <div class="id-photo"><img data-image="portrait" alt="" loading="lazy"><span aria-hidden="true">✷</span></div>
+          <figcaption><b data-field="name"></b><small data-field="signature"></small></figcaption>
+        </figure>
+        <div class="intro">
+          <p class="eyebrow">01 / ABOUT ME</p>
+          <h2 id="about-title">嗨，我是<span data-field="name"></span><span class="purple">！</span></h2>
+          <p class="bio" data-field="bio"></p>
+          <p class="highlight" data-field="motto"></p>
+        </div>
+        <div class="notes">
+          <div><h3>技能 <small>TOOLKIT</small></h3><ul id="skills" class="skills"></ul></div>
+          <div><h3>经历 <small>EXPERIENCE</small></h3><ol id="experience" class="experience"></ol></div>
+        </div>
+      </div>
+    </section>
+    <section id="work" class="work-section" aria-labelledby="work-title">
+      <div class="wrap">
+        <div class="work-heading">
+          <div><p class="eyebrow">02 / THE PROJECT WALL</p><h2 id="work-title">精选作品<span aria-hidden="true">✷</span></h2></div>
+          <p>点开一张海报，<br>看看它背后的一整套设计。<span aria-hidden="true">↴</span></p>
+        </div>
+        <div id="projects" class="project-grid"></div>
+      </div>
+    </section>
+    <section class="contact" id="contact" aria-labelledby="contact-title">
+      <div class="wrap contact-inner">
+        <div><p class="eyebrow">03 / SAY HELLO</p><h2 id="contact-title">一起做点<span>好玩的。</span></h2><p data-field="contactNote"></p></div>
+        <div class="contact-links" id="contact-links"></div>
+        <svg class="doodle smile" viewBox="0 0 100 85" aria-hidden="true"><path d="M30 26c-39 29-2 65 34 44 24-14 24-46 5-56M39 28l1 11m19-15-1 12M35 49c7 13 24 9 29-5M86 12l9-8m-5 22 10-1"/></svg>
+      </div>
+    </section>
+  </div>
+  <section id="project-view" class="project-view" hidden aria-labelledby="project-title">
+    <div class="wrap">
+      <a class="back" href="#work">← 返回作品墙</a>
+      <div class="project-intro"><p id="project-meta" class="eyebrow"></p><h1 id="project-title" tabindex="-1"></h1><p id="project-description"></p><span id="project-count" class="counter-tag"></span></div>
+      <div id="gallery" class="gallery"></div>
+      <div class="project-end"><a href="#work">← 返回作品墙</a><a id="next-project"></a></div>
+    </div>
+  </section>
+  <section id="missing-view" class="wrap missing" hidden><h1 tabindex="-1">这件作品找不到了</h1><a href="#work">← 返回作品墙</a></section>
+</main>
+<footer class="site-footer"><div class="wrap"><span>✷ <span data-field="signature"></span> / PORTFOLIO</span><span data-field="footerNote"></span><a href="#home">回到首页 ↑</a></div></footer>
+<dialog id="lightbox" aria-labelledby="lightbox-title">
+  <div class="light-head"><strong id="lightbox-title"></strong><div><button type="button" id="zoom" aria-pressed="false">放大</button><button type="button" id="close" aria-label="关闭大图">×</button></div></div>
+  <div class="light-stage" id="light-stage" tabindex="0" aria-label="作品图片，放大后可滚动查看"><img id="light-image" alt=""></div>
+  <div class="light-foot"><button type="button" id="prev" aria-label="上一张">←</button><span id="light-caption" aria-live="polite"></span><button type="button" id="next" aria-label="下一张">→</button></div>
+</dialog>
+<noscript><p class="wrap">请启用 JavaScript，以浏览作品和画廊。</p></noscript>
+</body>
+</html>
